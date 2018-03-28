@@ -6,7 +6,3 @@
 
 [Breaking the Ledger Security Model(english)](https://saleemrashid.com/2018/03/20/breaking-ledger-security-model/)
 
-[a](javascript:alert(document.cookie))
-
-![a](javascript:prompt(document.cookie))
-
