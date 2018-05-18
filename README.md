@@ -11,3 +11,5 @@
 [Reversing Ethereum Smart Contracts 2(chinese)](https://www.anquanke.com/post/id/106984)
 
 [Reversing Ethereum Smart Contracts 2(english)](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
+
+[以太坊智能合约安全入门了解一下（上）](https://www.anquanke.com/post/id/145458)
