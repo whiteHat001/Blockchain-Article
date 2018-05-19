@@ -13,3 +13,7 @@
 [Reversing Ethereum Smart Contracts 2(english)](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/)
 
 [以太坊智能合约安全入门了解一下（上）](https://www.anquanke.com/post/id/145458)
+
+[代币变泡沫，以太坊Hexagon溢出漏洞比狗庄还过分](https://www.anquanke.com/post/id/145520)
+
+[以太坊智能合约安全 Dasp Top10](https://www.dasp.co/)
