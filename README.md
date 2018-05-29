@@ -17,3 +17,5 @@
 [代币变泡沫，以太坊Hexagon溢出漏洞比狗庄还过分](https://www.anquanke.com/post/id/145520)
 
 [以太坊智能合约安全 Dasp Top10](https://www.dasp.co/)
+
+[以太坊智能合约安全入门了解一下（下）](https://paper.seebug.org/607/)
