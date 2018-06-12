@@ -21,3 +21,7 @@
 [以太坊智能合约安全入门了解一下（下）](https://paper.seebug.org/607/)
 
 [EOS节点远程执行代码漏洞](https://www.anquanke.com/post/id/146497)
+
+[以太坊去中心化应用dApp的渗透测试姿势浅析](http://www.freebuf.com/articles/blockchain-articles/174050.html)
+
+[以太坊再爆安全漏洞，交易所的安全声明你还信嘛？](https://mp.weixin.qq.com/s/8cPWgToQcKJ0XMvf5IoaRg)
