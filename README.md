@@ -29,3 +29,5 @@
 [又见无限生成代币：AMR智能合约整数溢出漏洞分析](https://www.secrss.com/articles/3800)
 
 [以太坊智能合约OPCODE逆向之理论基础篇](http://www.freebuf.com/articles/blockchain-articles/177260.html)
+
+[区块链安全技术总结](http://www.freebuf.com/vuls/178587.html)
