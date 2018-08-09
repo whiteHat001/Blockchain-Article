@@ -31,3 +31,7 @@
 [以太坊智能合约OPCODE逆向之理论基础篇](http://www.freebuf.com/articles/blockchain-articles/177260.html)
 
 [区块链安全技术总结](http://www.freebuf.com/vuls/178587.html)
+
+[EOS官方API中Asset结构体的乘法运算溢出漏洞描述](https://www.anquanke.com/post/id/154598)
+
+[Solidity 安全：已知攻击方法和常见防御模式综合列表](https://github.com/slowmist/Knowledge-Base/blob/master/solidity-security-comprehensive-list-of-known-attack-vectors-and-common-anti-patterns-chinese.md#%E8%99%9A%E6%8B%9F%E5%8C%96%E5%AD%98%E5%82%A8%E6%8C%87%E9%92%88)
