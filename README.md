@@ -36,3 +36,5 @@
 
 [EOS节点远程执行代码漏洞](https://www.apriorit.com/dev-blog/553-eos-smart-contract-vulnerability)
 
+[从一起“盗币”事件看以太坊存储 hash 碰撞问题](https://xlab.tencent.com/cn/2018/11/09/pay-attention-to-the-ethereum-hash-collision-problem-from-the-stealing-coins-incident/)
+
